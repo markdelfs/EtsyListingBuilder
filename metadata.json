@@ -1,0 +1,5 @@
+{
+  "name": "Etsy Listing Builder",
+  "description": "A web application to create Etsy listings directly through the Etsy API. Upload a product ZIP file, two preview images, and fill in details like title, description, colors, holiday, and tags to create a draft listing in your Etsy shop.",
+  "requestFramePermissions": []
+}
